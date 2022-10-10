@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.CI.CD.github", "AspNet.CI.CD.github\AspNet.CI.CD.github.csproj", "{42F673E5-16B6-431D-994F-5206A102C2E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitaire.CI.CD.github", "TestUnitaire.CI.CD.github\TestUnitaire.CI.CD.github.csproj", "{A7082D91-CCC4-43B6-950C-9156325FC424}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{42F673E5-16B6-431D-994F-5206A102C2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42F673E5-16B6-431D-994F-5206A102C2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42F673E5-16B6-431D-994F-5206A102C2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7082D91-CCC4-43B6-950C-9156325FC424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7082D91-CCC4-43B6-950C-9156325FC424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7082D91-CCC4-43B6-950C-9156325FC424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7082D91-CCC4-43B6-950C-9156325FC424}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

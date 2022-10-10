@@ -9,7 +9,7 @@ namespace TestUnitaire.CI.CD.github
 
         [Test]
         public void Test1()
-        {
+        { 
             Assert.Pass();
         }
     }
