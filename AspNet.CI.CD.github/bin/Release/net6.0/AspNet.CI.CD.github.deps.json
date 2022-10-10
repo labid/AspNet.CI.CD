@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AspNet.CI.CD.github/1.0.0": {
+        "runtime": {
+          "AspNet.CI.CD.github.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNet.CI.CD.github/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

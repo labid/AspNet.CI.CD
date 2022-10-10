@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\TestUnitaire.CI.CD.github\\TestUnitaire.CI.CD.github.csproj": {}
+    "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\AspNet.CI.CD.github\\AspNet.CI.CD.github.csproj": {}
   },
   "projects": {
-    "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\TestUnitaire.CI.CD.github\\TestUnitaire.CI.CD.github.csproj": {
+    "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\AspNet.CI.CD.github\\AspNet.CI.CD.github.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\TestUnitaire.CI.CD.github\\TestUnitaire.CI.CD.github.csproj",
-        "projectName": "TestUnitaire.CI.CD.github",
-        "projectPath": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\TestUnitaire.CI.CD.github\\TestUnitaire.CI.CD.github.csproj",
+        "projectUniqueName": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\AspNet.CI.CD.github\\AspNet.CI.CD.github.csproj",
+        "projectName": "AspNet.CI.CD.github",
+        "projectPath": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\AspNet.CI.CD.github\\AspNet.CI.CD.github.csproj",
         "packagesPath": "C:\\Users\\labid\\.nuget\\packages\\",
-        "outputPath": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\TestUnitaire.CI.CD.github\\obj\\",
+        "outputPath": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\AspNet.CI.CD.github\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,28 +43,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.1.0, )"
-            },
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.13.3, )"
-            },
-            "NUnit.Analyzers": {
-              "target": "Package",
-              "version": "[3.3.0, )"
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[4.2.1, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[3.1.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -76,6 +54,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -3885,11 +3885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\AspNet.CI.CD.github\\TestUnitaire.CI.CD.github\\TestUnitaire.CI.CD.github.csproj",
+      "projectUniqueName": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\TestUnitaire.CI.CD.github\\TestUnitaire.CI.CD.github.csproj",
       "projectName": "TestUnitaire.CI.CD.github",
-      "projectPath": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\AspNet.CI.CD.github\\TestUnitaire.CI.CD.github\\TestUnitaire.CI.CD.github.csproj",
+      "projectPath": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\TestUnitaire.CI.CD.github\\TestUnitaire.CI.CD.github.csproj",
       "packagesPath": "C:\\Users\\labid\\.nuget\\packages\\",
-      "outputPath": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\AspNet.CI.CD.github\\TestUnitaire.CI.CD.github\\obj\\",
+      "outputPath": "D:\\Entrainement\\Test Livraison contiue\\AspNet.CI.CD\\TestUnitaire.CI.CD.github\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
