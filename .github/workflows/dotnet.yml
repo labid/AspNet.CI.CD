@@ -24,10 +24,10 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Publish
-      run: dotnet publish AspNet.CI.CD/AspNet.CI.CD.github.csproj -c Release -o website
+      run: dotnet publish AspNet.CI.CD.github/AspNet.CI.CD.github.csproj -c Release -o website
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v3
       with:
         name: website
-        path: AspNet.CI.CD/website/**
+        path: AspNet.CI.CD.github//website/**
         if-no-files-found: error
